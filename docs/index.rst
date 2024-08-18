@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to pysunrunner's documentation!
+Welcome to pysunrunner (a tool for visualising output from sunRunner) documentation!
 =======================================
 
 .. include:: ../README.md
